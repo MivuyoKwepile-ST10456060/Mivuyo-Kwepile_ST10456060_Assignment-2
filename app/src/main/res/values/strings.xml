@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2v1</string>
+    <string name="app_heading">Welcome to Mametchi Your Tamagotchi App</string>
+    <string name="button">Get Started</string>
+</resources>
